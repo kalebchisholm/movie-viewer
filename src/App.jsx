@@ -129,7 +129,7 @@ function App() {
   };
 
   return (
-    <Router basename="comp4513-a1">
+    <Router basename="movie-viewer">
       <Routes>
         <Route
           path="/"
