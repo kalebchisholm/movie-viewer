@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movie-viewer/static/css/main.cee5a132.css",
+    "main.js": "/movie-viewer/static/js/main.98389b23.js",
+    "static/media/heroimg.jpg": "/movie-viewer/static/media/heroimg.9a1c0cde916abedfaa95.jpg",
+    "index.html": "/movie-viewer/index.html",
+    "main.cee5a132.css.map": "/movie-viewer/static/css/main.cee5a132.css.map",
+    "main.98389b23.js.map": "/movie-viewer/static/js/main.98389b23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cee5a132.css",
+    "static/js/main.98389b23.js"
+  ]
+}
